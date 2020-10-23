@@ -7,6 +7,6 @@ Given a file that contains a list of hello fresh recipe urls, this program creat
 <li>Execute Program.cs</li>
 <li>Enter absolute file path for input.txt file.</li>
   <img src="/Images/file_input.png"/>
-![Screenshot](/Images/file_input.png)
 <li>See console for grocery list.</li>
+  <img src="/Images/grocery_list.png"/>
 </ol>
