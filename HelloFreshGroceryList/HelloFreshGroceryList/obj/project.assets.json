@@ -3653,11 +3653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\Documents\\GitHub\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList.csproj",
       "projectName": "HelloFreshGroceryList",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList.csproj",
+      "projectPath": "C:\\Users\\georg\\Documents\\GitHub\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\HelloFreshGroceryList\\HelloFreshGroceryList\\obj\\",
+      "outputPath": "C:\\Users\\georg\\Documents\\GitHub\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

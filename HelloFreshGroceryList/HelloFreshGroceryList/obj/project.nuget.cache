@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSxz/IayPyCLuv2jb6mXBiO4TDUJyJT1gkFPMZANvXq+OP5CYHvLtSQsFew3yhEuUdDnM9sDmXmG80BjtI08KQ==",
+  "dgSpecHash": "EJMefPN6riBQY0kjqQVgvPqXb0svG93ieO4u4j+BSe4WTZfByGV55VPSbvq8LoCR3YM3cgPyJD4tn92f/5ysZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\source\\repos\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList.csproj",
+  "projectFilePath": "C:\\Users\\georg\\Documents\\GitHub\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList\\HelloFreshGroceryList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\htmlagilitypack\\1.7.4\\htmlagilitypack.1.7.4.nupkg.sha512",
