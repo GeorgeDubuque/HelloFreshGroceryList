@@ -6,6 +6,6 @@ Given a file that contains a list of hello fresh recipe urls, this program creat
 <li>Modify the input.txt file to contain the urls for the meals you are shopping for. Seperate urls by new lines.</li>
 <li>Execute Program.cs</li>
 <li>Enter absolute file path for input.txt file.</li>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot](/Images/file_input.png)
 <li>See console for grocery list.</li>
 </ol>
